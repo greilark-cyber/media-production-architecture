@@ -1,4 +1,4 @@
-# Solution Brief: Hardware-Accelerated Video Encoding for Live Music Broadcasting
+# Solution Brief: Hardware-Accelerated Video Encoding for Live Broadcasting for Music with Visuals Broadcasting
 
 ## Overview
 
