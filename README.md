@@ -12,7 +12,5 @@ This repository documents a live-switching environment designed for high-perform
 By utilizing specialized NVIDIA hardware for encoding, I achieved a stable 1080p60 stream with <5% CPU utilization. This setup demonstrates the value of hardware-software synergy in media-intensive environments, ensuring zero dropped frames during high-stakes technical presentations.
 
 ### 📁 Documents
-* [Technical Solution Brief - NVENC Optimization](./NVENC_Solution_Brief.pdf)
-* 
-
-30-second live clip for review at https://www.twitch.tv/videos/2700985643
+* [Technical Solution Brief - NVENC Optimization](./sdr-sessions-multi-camera-move-demo.pdf)
+* 30-second clip at [twitch.tv/greilark](https://www.twitch.tv/videos/2700985643)
